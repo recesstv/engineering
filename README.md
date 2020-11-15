@@ -129,6 +129,7 @@ The engineer is honing on in their individual skills and is starting to have an 
 
 |                              |                                                                                              |
 | ---------------------------- | -------------------------------------------------------------------------------------------- |
+| **Scope & Impact**           | Writes quality code and documentation and owns projects                                        |
 | Technical execution          | Implements code that's clear, optimized and tested                                           |
 |                              | Improves tools and code structure                                                            |
 | Ownership                    | Owns projects from start to finish and beyond with fixes and improvements                    |
