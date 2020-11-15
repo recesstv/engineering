@@ -90,7 +90,7 @@ Every one at Recess are expected to follow these principles.
 
 ### Estimates and deadline commitments
 
-**Engineers are project managers of their projects.**
+**Engineers are project managers of their own projects.**
 
 Estimating isn't perfect math and experience greatly affects estimate accuracy.
 
@@ -102,9 +102,9 @@ Estimating isn't perfect math and experience greatly affects estimate accuracy.
 
 ### Working with Product
 
-- Organize a meeting to get a run down from product before starting on a project
+- Organize a meeting to get a run down from Product before starting on a project
 - Actively seek details when requirements are unclear
-- Capture offline conversations and decisions in the tasks
+- Capture offline conversations and decisions in project management tool
 
 ## Engineering ladder
 
@@ -116,51 +116,50 @@ Recess' engineering team is small and titles don't make sense yet but this docum
 
 This is typically the engineer's first full-time engineering job. The focus is on personal development through active learning.
 
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| **Scope & Impact**          | Writes, tests and documents simple tasks                                                       |
-+-----------------------------+------------------------------------------------------------------------------------------------+
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| Technical execution         | - Indentifies and fixes issues                                                                 |
-|                             | - Contributes to code base with supervision from more experienced engineers                    |
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| Collaboration               | - Searches for solutions and asks for help when necessary                                      |
-+-----------------------------+------------------------------------------------------------------------------------------------+
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Scope & Impact**           | Writes, tests and documents simple tasks                                                       |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| Technical execution          | - Indentifies and fixes issues                                                                 |
+|                              | - Contributes to code base with supervision from more experienced engineers                    |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| Collaboration                | - Searches for solutions and asks for help when necessary                                      |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
 
 ### Engineer Level 4 (L4 IC)
 
 The engineer is honing on in their individual skills and is starting to have an impact on teammates.
 
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| **Scope & Impact**          | Writes quality code and documentation and owns projects                                        |
-+-----------------------------+------------------------------------------------------------------------------------------------+
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| Technical execution         | - Implements code that's clear, optimized and tested                                           |
-|                             | - Improves tools and code structure                                                            |
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| Ownership                   | - Owns projects from start to finish and beyond with fixes and improvements                    |
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| Collaboration               | - Performs code reviews that are valued by peers                                               |
-+-----------------------------+------------------------------------------------------------------------------------------------+
+| **Scope & Impact**           | Writes quality code and documentation and owns projects                                        |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| Technical execution          | - Implements code that's clear, optimized and tested                                           |
+|                              | - Improves tools and code structure                                                            |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| Ownership                    | - Owns projects from start to finish and beyond with fixes and improvements                    |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| Collaboration                | - Performs code reviews that are valued by peers                                               |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
 
 ### Engineer Level 5 (L5 IC)
 
 The engineer is honing on in their individual skills and is starting to have an impact on teammates.
 
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| **Scope & Impact**          | Owns entire projects from design to deployment                                                 |
-+-----------------------------+------------------------------------------------------------------------------------------------+
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| Technical execution         | - Is highly proficient one or more technical areas                                             |
-|                             | - Writes and contributes to design documentations                                              |
-|                             | - Improves maintainability and testability via architecture changes                            |
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| Ownership                   | - Prioritizes projects that improve the team's efficient                                       |
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| Collaboration               | - Collaborate with direct and adjacent teams to solve problems                                 |
-+-----------------------------+------------------------------------------------------------------------------------------------+
-| Team Building               | - Helps and mentors other engineers                                                            |
-|                             | - Participates in engineering interviews                                                       |
-+-----------------------------+------------------------------------------------------------------------------------------------+
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Scope & Impact**           | Owns entire projects from design to deployment                                                 |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| Technical execution          | - Is highly proficient one or more technical areas                                             |
+|                              | - Writes and contributes to design documentations                                              |
+|                              | - Improves maintainability and testability via architecture changes                            |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| Ownership                    | - Prioritizes projects that improve the team's efficient                                       |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| Collaboration                | - Collaborate with direct and adjacent teams to solve problems                                 |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| Team Building                | - Helps and mentors other engineers                                                            |
+|                              | - Participates in engineering interviews                                                       |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
 
 ### Engineer Level 6 (L6 IC)
 
